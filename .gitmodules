@@ -1,0 +1,3 @@
+[submodule "all-MiniLM-L6-v2"]
+	path = all-MiniLM-L6-v2
+	url = https://github.com/sagargowda88/model.git
